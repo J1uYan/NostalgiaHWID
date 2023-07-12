@@ -1,2 +1,2 @@
-# NostalgiaHWID
-QQ验证forNostalgia内部
+# LiquidOpera
+HWID
